@@ -50,13 +50,11 @@ My GitHub serves as a portfolio of projects developed throughout my studies, foc
 
 This repository collection includes projects such as:
 
+* Financial statement and market data analysis
+* SQL-based financial database analysis
 * Portfolio optimization using Modern Portfolio Theory
 * Monte Carlo simulations for financial applications
-* Black–Scholes option pricing
-* Value at Risk (VaR) estimation
-* Financial statement and market data analysis
 * Stock screening and visualization tools
-* SQL-based financial database analysis
 
 Each project emphasizes clean code, documentation, reproducibility, and practical financial applications.
 
