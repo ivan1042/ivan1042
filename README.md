@@ -1,4 +1,4 @@
-# Hi, I'm Tom 👋
+# Hi, I'm Ivan 👋
 
 I'm a Quantitative Finance student at The Chinese University of Hong Kong with interests in quantitative research, financial engineering, data analytics, and algorithmic trading.
 
